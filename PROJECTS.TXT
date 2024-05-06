@@ -1,1 +1,11 @@
+Project 1 (Individual - code wise):
 
+Stack: Nextjs, Supabase, SCSS
+
+Description: Redesigning and rebuilding a client website and adding new features.
+
+Repository Link: https://github.com/Abdulhamidsa/Cam-Cam
+
+Live Project Link: https://camcam.vercel.app
+
+------------------------------------------------------------------------------------
