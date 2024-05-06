@@ -9,6 +9,7 @@ Repository Link: https://github.com/Abdulhamidsa/Cam-Cam
 Live Project Link: https://camcam.vercel.app
 
 ------------------------------------------------------------------------------------
+**Live Project Link:** [Link Text](https://www.yourproject.com)
 
 Project 2 (Individual):
 
