@@ -35,3 +35,13 @@
 **Role:** My role was mainly focusing on the form, saving orders data, and handling the connection between the database and the frontend.
 
 --- 
+
+### Project 4 (Individual):
+
+**Stack:** HTML,CSS, Javascript
+
+**Description:** An old portfolio for some projects i done during studying multimedia design.
+
+**Repository Link:** [https://github.com/Abdulhamidsa/Portfolio](https://github.com/Abdulhamidsa/Portfolio)
+
+**Live Project Link:** [https://portfolio-abdulhamid.vercel.app](https://portfolio-abdulhamid.vercel.app)
