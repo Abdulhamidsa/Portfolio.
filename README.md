@@ -1,8 +1,8 @@
 ### Project 1 (Individual - code wise):
 
-**Stack:** Next.js, Supabase, SCSS
-
 **Description:** Redesigning and rebuilding a client website and adding new features.
+
+**Stack:** Next.js, Supabase, SCSS
 
 **Repository Link:** [https://github.com/Abdulhamidsa/Cam-Cam](https://github.com/Abdulhamidsa/Cam-Cam)
 
@@ -12,9 +12,9 @@
 
 ### Project 2 (Individual):
 
-**Stack:** PHP, JavaScript, CSS
-
 **Description:** Food app that provides data and different dashboard with orders data for users, partners, and an admin.
+
+**Stack:** PHP, JavaScript, CSS
 
 **Repository Link:** [https://github.com/Abdulhamidsa/Dashify-App](https://github.com/Abdulhamidsa/Dashify-App)
 
@@ -24,9 +24,9 @@
 
 ### Project 3 (Group):
 
-**Stack:** Next.js, SCSS, Supabase
-
 **Description:** Festival selling tickets app.
+
+**Stack:** Next.js, SCSS, Supabase
 
 **Repository Link:** [https://github.com/Abdulhamidsa/festival_tickets](https://github.com/Abdulhamidsa/festival_tickets)
 
@@ -34,13 +34,13 @@
 
 **Role:** My role was mainly focusing on the form, saving orders data, and handling the connection between the database and the frontend.
 
---- 
+---
 
 ### Project 4 (Individual):
 
-**Stack:** HTML,CSS, Javascript
+**Description:** An old portfolio for some projects I done during studying multimedia design.
 
-**Description:** An old portfolio for some projects i done during studying multimedia design.
+**Stack:** HTML, CSS, JavaScript
 
 **Repository Link:** [https://github.com/Abdulhamidsa/Portfolio](https://github.com/Abdulhamidsa/Portfolio)
 
