@@ -38,6 +38,18 @@
 
 ### Project 4 (Individual):
 
+**Description:** Food dishes sharing community.
+
+**Stack:** Nextjs, CSS,  MongoDB, Mongoose.
+
+**Repository Link:** [https://github.com/Abdulhamidsa/tastypixels.git](https://github.com/Abdulhamidsa/tastypixels.git)
+
+**Live Project Link:** This is a current full-stack exam project that is under development. 
+
+---
+
+### Project 5 (Individual):
+
 **Description:** An old portfolio for some projects I done during studying multimedia design.
 
 **Stack:** HTML, CSS, JavaScript
@@ -45,3 +57,4 @@
 **Repository Link:** [https://github.com/Abdulhamidsa/Portfolio](https://github.com/Abdulhamidsa/Portfolio)
 
 **Live Project Link:** [https://portfolio-abdulhamid.vercel.app](https://portfolio-abdulhamid.vercel.app)
+
