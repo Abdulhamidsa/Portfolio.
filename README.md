@@ -58,3 +58,15 @@
 
 **Live Project Link:** [https://portfolio-abdulhamid.vercel.app](https://portfolio-abdulhamid.vercel.app)
 
+
+---
+
+### Project 6 (Individual):
+
+**Description:** Crime Data Interactive Map
+
+**Stack:** Nextjs, CSS, Python, Docker
+
+**Repository Link:** [https://github.com/Abdulhamidsa/uw-exam](https://github.com/Abdulhamidsa/uw-exam)
+
+**Live Project Link:** Under development
