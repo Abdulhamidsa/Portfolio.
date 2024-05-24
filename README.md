@@ -46,13 +46,13 @@
 
 **Description:** Food dishes sharing community.
 
-**Stack:** Nextjs, CSS,  MongoDB, Mongoose.
+**Stack:** Nextjs, CSS,  MongoDB, Mongoose, Cloudinary.
 
 **Repository Link:** [https://github.com/Abdulhamidsa/tastypixels.git](https://github.com/Abdulhamidsa/tastypixels.git)
 
 **Live Project Link:** This is a current full-stack exam project that is under development. 
 
-**What Knowledge I Have Acquired:** 
+**What Knowledge I Have Acquired:** This ongoing full-stack exam project has significantly expanded my technical expertise. I’ve gained deep knowledge in authentication, database management, and schema design using MongoDB and Mongoose. I've also improved my understanding of state management, including global state handling. Utilizing Next.js as a full-stack framework has strengthened my skills in building comprehensive applications. Additionally, I've integrated new technologies like Chakra UI, enhancing both functionality and user experience.
 
 ---
 
@@ -66,6 +66,8 @@
 
 **Live Project Link:** [https://portfolio-abdulhamid.vercel.app](https://portfolio-abdulhamid.vercel.app)
 
+**What Knowledge I Have Acquired:** This was my first portfolio website during my multimedia design education. Through this project, I gained extensive experience in JavaScript, improving my ability to create dynamic and interactive web pages. I also improved my skills in HTML and CSS, developing a deeper understanding of responsive design principles and best practices. This project taught me the importance of clean code, effective debugging, and the overall process of building and deploying a website from scratch using vanilla javascript. 
+
 
 ---
 
@@ -73,8 +75,10 @@
 
 **Description:** Crime Data Interactive Map
 
-**Stack:** Nextjs, CSS, Python, Docker
+**Stack:** Nextjs, CSS, Python, Docker, PythonAnyWhere, ArangoDB
 
 **Repository Link:** [https://github.com/Abdulhamidsa/uw-exam](https://github.com/Abdulhamidsa/uw-exam)
 
 **Live Project Link:** Under development
+
+**What Knowledge I Have Acquired:** Through this project I learned a lot about Python, including how to connect to a server using PythonAnywhere and fetch data to the database. I also gained experience in creating complex AQL (ArangoDB Query Language) queries to establish relationships between data. Additionally, I worked with Docker for containerization, which streamlined the development and deployment process. This project enhanced my understanding of full-stack development, integrating various technologies to build a comprehensive interactive map application.
