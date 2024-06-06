@@ -1,14 +1,17 @@
-### Project 1 (Individual - code wise):
+### Project 1 (Individual):
 
-**Description:** Redesigning and rebuilding a client website and adding new features.
+**Description:** Food dishes sharing community.
 
-**Stack:** Next.js, Supabase, SCSS
+**Stack:** Nextjs, CSS,  MongoDB, Mongoose, Cloudinary.
 
-**Repository Link:** [https://github.com/Abdulhamidsa/Cam-Cam](https://github.com/Abdulhamidsa/Cam-Cam)
+**Repository Link:** [https://github.com/Abdulhamidsa/tastypixels-demo](https://github.com/Abdulhamidsa/tastypixels-demo)
 
-**Live Project Link:** [https://camcam.vercel.app](https://camcam.vercel.app)
+**Live Project Link:** This is a live link for a demo/prototype website for an ongoing exam project. [https://tastypixels-demo.vercel.app/]([https://github.com/Abdulhamidsa/tastypixels-demo](https://tastypixels-demo.vercel.app/))
 
-**What Knowledge I Have Acquired:** This was an exam project in collaboration with the client, [https://camcamcopenhagen.dk/](https://camcamcopenhagen.dk/) During this project, I learned to use the Next.js App Router and understood how it's different from the Pages Router when it comes to the folder structure and the way of fetching data. I also used Supabase for the database and handled large CSV files. This project improved my full-stack development skills, styling with SCSS, and project management, including effective communication with the client and addressing their needs.
+**What Knowledge I Have Acquired:** This ongoing full-stack exam project has significantly expanded my technical expertise. I’ve gained deep knowledge in authentication, database management, and schema design using MongoDB and Mongoose. I've also improved my understanding of state management, including global state handling. Utilizing Next.js as a full-stack framework has strengthened my skills in building comprehensive applications. Additionally, I've integrated new technologies like Chakra UI, enhancing both functionality and user experience.
+
+
+
 
 ---
 
@@ -42,17 +45,17 @@
 
 ---
 
-### Project 4 (Individual):
+### Project 4 (Individual - code wise):
 
-**Description:** Food dishes sharing community.
+**Description:** Redesigning and rebuilding a client website and adding new features.
 
-**Stack:** Nextjs, CSS,  MongoDB, Mongoose, Cloudinary.
+**Stack:** Next.js, Supabase, SCSS
 
-**Repository Link:** [https://github.com/Abdulhamidsa/tastypixels.git](https://github.com/Abdulhamidsa/tastypixels.git)
+**Repository Link:** [https://github.com/Abdulhamidsa/Cam-Cam](https://github.com/Abdulhamidsa/Cam-Cam)
 
-**Live Project Link:** This is a current full-stack exam project that is under development. 
+**Live Project Link:** [https://camcam.vercel.app](https://camcam.vercel.app)
 
-**What Knowledge I Have Acquired:** This ongoing full-stack exam project has significantly expanded my technical expertise. I’ve gained deep knowledge in authentication, database management, and schema design using MongoDB and Mongoose. I've also improved my understanding of state management, including global state handling. Utilizing Next.js as a full-stack framework has strengthened my skills in building comprehensive applications. Additionally, I've integrated new technologies like Chakra UI, enhancing both functionality and user experience.
+**What Knowledge I Have Acquired:** This was an exam project in collaboration with the client, [https://camcamcopenhagen.dk/](https://camcamcopenhagen.dk/) During this project, I learned to use the Next.js App Router and understood how it's different from the Pages Router when it comes to the folder structure and the way of fetching data. I also used Supabase for the database and handled large CSV files. This project improved my full-stack development skills, styling with SCSS, and project management, including effective communication with the client and addressing their needs.
 
 ---
 
