@@ -4,10 +4,10 @@
 
 **Stack:** Nextjs, CSS,  MongoDB, Mongoose, Cloudinary.
 
-**Repository Link:** [https://github.com/Abdulhamidsa/tastypixels-demo](https://github.com/Abdulhamidsa/tastypixels-demo)
+**Repository Link:** [https://github.com/Abdulhamidsa/tastypixels.git](https://github.com/Abdulhamidsa/tastypixels.git)
 
 **Live Project Link:** This is a live link for a demo/prototype website for an ongoing exam project.
-[https://tastypixels-demo.vercel.app/](https://tastypixels-demo.vercel.app/))
+[https://tastypixels.vercel.app/](https://tastypixels.vercel.app/))
 
 **What Knowledge I Have Acquired:** This ongoing full-stack exam project has significantly expanded my technical expertise. I’ve gained deep knowledge in authentication, database management, and schema design using MongoDB and Mongoose. I've also improved my understanding of state management, including global state handling. Utilizing Next.js as a full-stack framework has strengthened my skills in building comprehensive applications. Additionally, I've integrated new technologies like Chakra UI, enhancing both functionality and user experience.
 
