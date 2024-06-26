@@ -2,7 +2,7 @@
 
 **Description:** Food dishes sharing community.
 
-**Stack:** Nextjs, CSS,  MongoDB, Mongoose, Cloudinary, Chakra UI, NodeJs
+**Stack:** Nextjs, NextJs API,  CSS,  MongoDB, Mongoose, Cloudinary, Chakra UI, NodeJs
 
 **Repository Link:** [https://github.com/Abdulhamidsa/tastypixels.git](https://github.com/Abdulhamidsa/tastypixels.git)
 
