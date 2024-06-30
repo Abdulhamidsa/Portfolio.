@@ -75,7 +75,7 @@
 
 ---
 
-### Project 6 (Individual):
+### Project 6 (Group):
 
 **Description:** Crime Data Interactive Map
 
